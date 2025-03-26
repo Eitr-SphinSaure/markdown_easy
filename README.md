@@ -1,4 +1,4 @@
-这里是“轻松上手markdown（非CS专业友好版）”的markdown文档。~~（也作为markdown学习素材）~~
+这里是“轻松上手markdown（非CS专业友好版）”的markdown文档。~~（也作为markdown学习素材）~~  
 文件结构如下
 ```
 .
